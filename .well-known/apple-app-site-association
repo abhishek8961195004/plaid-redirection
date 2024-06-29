@@ -1,0 +1,11 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appID": "6502874103.com.develop.cashmit",
+        "paths": ["*"]
+      }
+    ]
+  }
+}
